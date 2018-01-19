@@ -1,0 +1,6 @@
+framework module Pods_SwiftStack {
+  umbrella header "Pods-SwiftStack-umbrella.h"
+
+  export *
+  module * { export * }
+}
